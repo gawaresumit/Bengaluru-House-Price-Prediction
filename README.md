@@ -1,2 +1,3 @@
 # Bengaluru-House-Price-Prediction
 A Machine Learning project for Bengaluru House Price Prediction with data cleaning, feature engineering, EDA, model selection (Linear Regression, Lasso, Ridge, Random Forest), locality insights, EMI calculator, rental estimator, map integration, amenities, and crime/traffic index visualization.
+This project uses Linear Regression as a baseline model to understand core price relations, Lasso to select important location and numerical features, Ridge to handle multicollinearity in housing data, and Random Forest to capture non-linear patterns for more accurate Bengaluru house price predictions.
